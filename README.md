@@ -1,7 +1,7 @@
 ## QA Automation Engineer Coding Test
 
 ### Test Scenario
-You have just received a contract from Elon Musk to build some automation tests for the Twitter web application. Your goal is to validate that a new user is able to sign up for an account, sign out and then sign back in and find an account related to or that has recently posted about the self-storage industry. But be carefuly, you must ensure it's a verified account by validating the existence of the blue checkbox. 
+You have just received a contract from Elon Musk to build some automation tests for the Twitter web application. Your goal is to validate that a new user is able to sign up for an account, sign out and then sign back in and find and follow an account related to or that has recently posted about the self-storage industry. But be carefuly, you must ensure it's a verified account by validating the existence of the blue checkbox. 
 
 ### Test Data
 
