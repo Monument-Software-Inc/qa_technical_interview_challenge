@@ -5,7 +5,7 @@ You have just received a contract from Elon Musk to build some automation tests 
 
 ### Test Data
 
-What test data would you define to run the needed scenarios? Are there any dependencies you would need to consider? How would you manage test data so you could run tests both offline and online? Please describe your approach.
+What test data would you define to run the needed scenarios? Are there any dependencies you would need to consider? Please describe your approach.
 
 ### Automation Test
 
